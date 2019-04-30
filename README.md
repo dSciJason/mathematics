@@ -16,3 +16,13 @@ https://www.edx.org/course/essential-math-for-machine-learning-python-edition-2
 https://www.coursera.org/specializations/mathematics-machine-learning
 https://Knanacademy.com
 
+  There will be a feature system that impacts the ranking of resources, every additional feature will gain its corresponding resource +1 to its ranking.
+  Text
+  Audio
+  Video
+  Multiple Examples (more than 2 per topic)
+  Interactive Examples
+  
+  
+  
+  One way static material (typically printed or audio) will be assigned the weight 0. I don't do the best with this type of material. Complex state material, audio + visual will get a weight of 1. Video with examples are a great way to learn. This coupled with reading is a solid approach.
