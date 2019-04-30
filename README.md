@@ -14,5 +14,5 @@ Calculus, Linear Algebra, Probability, Statistics, and Optimization
 ### Create a 
 https://www.edx.org/course/essential-math-for-machine-learning-python-edition-2
 https://www.coursera.org/specializations/mathematics-machine-learning
-Knanacademy.com
+https://Knanacademy.com
 
